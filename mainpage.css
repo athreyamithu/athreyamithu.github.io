@@ -8,8 +8,13 @@ header {
 }
 
 .btn {
-	border-radius: 10px;
+	border-radius: 20px;
 	background-color: #FFFFFF;
+	width: 125px;
+	border: 0.25px;
+	border-style: solid;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 .btn:hover {
@@ -50,7 +55,7 @@ nav a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-image: url('lassenhotspring2.JPG');
+	background-image: url('pics/lassenhotspring2.JPG');
 	background-size: cover;
 	height: 500px;
 	color: #FFFFFF;
