@@ -1,0 +1,58 @@
+body {
+	font-family: 'Helvetica Neue', sans-serif;
+	font-weight: 300;
+}
+
+header {
+	padding: 20px 0;
+}
+
+.btn {
+	border-radius: 10px;
+	background-color: #FFFFFF;
+}
+
+.btn:hover {
+	background-color: #0047b3;
+	color: #FFFFFF;
+}
+
+.btn:active {
+	background-color: #FFFFFF;
+	color: #0047b3;
+}
+
+nav a {
+	color: #0047b3;
+}
+
+.custom {
+	width: 100px;
+}
+
+.circular--square {
+  	border-radius: 50%;
+  	width: 200px;
+  	height: 200px;
+  	position: relative;
+  	padding:0px;
+   	border:6px;
+   	border-style: solid;
+   	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.circular--square img {
+  	width: 100%;
+  	height: auto;
+}
+
+.jumbotron {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url('lassenhotspring2.jpg');
+	background-size: cover;
+	height: 500px;
+	color: #FFFFFF;
+	text-shadow: 0.25px 0.25px 0.25px #000000;
+}
