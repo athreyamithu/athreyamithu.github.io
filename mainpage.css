@@ -76,6 +76,7 @@ nav a {
 
 .about p {
 	font-weight: 200;
+	font-size: 16px;
 }
 
 footer a:hover {
@@ -87,7 +88,8 @@ footer a {
 	color: #96989b;
 	margin-left: 1.25px;
 	margin-right: 1.25px;
-	margin-bottom: 3px;
+	margin-top: 4.5px;
+	margin-bottom: 4px;
 }
 
 footer p {
